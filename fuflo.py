@@ -1,7 +1,7 @@
 S = "535 sigma kkk5 ytuh5 43443 qqq2"
-news = ""
+newS = ""
 for n in S:
-	if n == "   ":
+	if n == " ":
 		n = "!"
-	new S += n
-print new S
+	newS+=n
+print newS
